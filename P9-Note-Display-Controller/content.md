@@ -113,7 +113,7 @@ It should look like this:
 
 ![image](display_view.png) 
 
-Remeber if things are not looking quite right when you run on device, you can generally solve these through resolving auto layout that you tried out
+Remember, if things are not looking quite right when you run on device, you can generally solve these through resolving auto layout that you tried out
 in the simple app tutorial.
 
 >[action]
